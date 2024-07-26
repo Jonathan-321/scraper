@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+    "author": "J.K. Rowling",
+    "rating": 4.5
+  },
+  {
+    "title": "Life of Pi (Paperback)",
+    "author": "Yann Martel",
+    "rating": 3.94
+  },
+  {
+    "title": "The Book Thief (Kindle Edition)",
+    "author": "Markus Zusak",
+    "rating": 4.39
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+    "author": "J.K. Rowling",
+    "rating": 4.57
+  },
+  {
+    "title": "Where the Crawdads Sing (ebook)",
+    "author": "Delia Owens",
+    "rating": 4.38
+  },
+  {
+    "title": "Wuthering Heights (Paperback)",
+    "author": "Emily Bront\u00eb",
+    "rating": 3.89
+  },
+  {
+    "title": "All the Light We Cannot See (Hardcover)",
+    "author": "Anthony Doerr",
+    "rating": 4.31
+  },
+  {
+    "title": "Animal Farm (Mass Market Paperback)",
+    "author": "George Orwell",
+    "rating": 3.99
+  },
+  {
+    "title": "The Stranger (Paperback)",
+    "author": "Albert Camus",
+    "rating": 4.02
+  },
+  {
+    "title": "The Curious Incident of the Dog in the Night-Time (Paperback)",
+    "author": "Mark Haddon",
+    "rating": 3.89
+  },
+  {
+    "title": "The Hunger Games (The Hunger Games, #1)",
+    "author": "Suzanne Collins",
+    "rating": 4.34
+  },
+  {
+    "title": "The da Vinci Code (Robert Langdon, #2)",
+    "author": "Dan       Brown",
+    "rating": 3.92
+  },
+  {
+    "title": "Slaughterhouse-Five (Paperback)",
+    "author": "Kurt Vonnegut Jr.",
+    "rating": 4.1
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+    "author": "J.K. Rowling",
+    "rating": 4.58
+  },
+  {
+    "title": "The Fault in Our Stars (Hardcover)",
+    "author": "John Green",
+    "rating": 4.13
+  },
+  {
+    "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+    "author": "George R.R. Martin",
+    "rating": 4.44
+  },
+  {
+    "title": "The Picture of Dorian Gray (Paperback)",
+    "author": "Oscar Wilde",
+    "rating": 4.13
+  },
+  {
+    "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+    "author": "J.R.R. Tolkien",
+    "rating": 4.39
+  },
+  {
+    "title": "Fahrenheit 451 (Kindle Edition)",
+    "author": "Ray Bradbury",
+    "rating": 3.97
+  },
+  {
+    "title": "Mockingjay (The Hunger Games, #3)",
+    "author": "Suzanne Collins",
+    "rating": 4.09
+  },
+  {
+    "title": "The Road (Hardcover)",
+    "author": "Cormac McCarthy",
+    "rating": 3.99
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+    "author": "Stieg Larsson",
+    "rating": 4.17
+  },
+  {
+    "title": "Of Mice and Men (Paperback)",
+    "author": "John Steinbeck",
+    "rating": 3.89
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+    "author": "J.K. Rowling",
+    "rating": 4.58
+  },
+  {
+    "title": "Angels & Demons (Robert Langdon, #1)",
+    "author": "Dan       Brown",
+    "rating": 3.94
+  },
+  {
+    "title": "Dune (Dune, #1)",
+    "author": "Frank Herbert",
+    "rating": 4.27
+  },
+  {
+    "title": "The Catcher in the Rye (Paperback)",
+    "author": "J.D. Salinger",
+    "rating": 3.8
+  },
+  {
+    "title": "The Hobbit (The Lord of the Rings, #0)",
+    "author": "J.R.R. Tolkien",
+    "rating": 4.29
+  },
+  {
+    "title": "Harry Potter and the Sorcerer\u2019s Stone (Harry Potter, #1)",
+    "author": "J.K. Rowling",
+    "rating": 4.47
+  },
+  {
+    "title": "The Midnight Library (Hardcover)",
+    "author": "Matt Haig",
+    "rating": 4.0
+  },
+  {
+    "title": "Jane Eyre (Paperback)",
+    "author": "Charlotte Bront\u00eb",
+    "rating": 4.15
+  },
+  {
+    "title": "Pride and Prejudice (Paperback)",
+    "author": "Jane Austen",
+    "rating": 4.29
+  },
+  {
+    "title": "Gone Girl (Paperback)",
+    "author": "Gillian Flynn",
+    "rating": 4.14
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo (Hardcover)",
+    "author": "Taylor Jenkins Reid",
+    "rating": 4.42
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+    "author": "J.K. Rowling",
+    "rating": 4.43
+  },
+  {
+    "title": "The Hitchhiker\u2019s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+    "author": "Douglas Adams",
+    "rating": 4.23
+  },
+  {
+    "title": "A Man Called Ove (Hardcover)",
+    "author": "Fredrik Backman",
+    "rating": 4.38
+  },
+  {
+    "title": "The Great Gatsby (Paperback)",
+    "author": "F. Scott Fitzgerald",
+    "rating": 3.93
+  },
+  {
+    "title": "Brave New World (Paperback)",
+    "author": "Aldous Huxley",
+    "rating": 3.99
+  },
+  {
+    "title": "Catching Fire (The Hunger Games, #2)",
+    "author": "Suzanne Collins",
+    "rating": 4.33
+  },
+  {
+    "title": "To Kill a Mockingbird (Paperback)",
+    "author": "Harper Lee",
+    "rating": 4.26
+  },
+  {
+    "title": "The Alchemist (Paperback)",
+    "author": "Paulo Coelho",
+    "rating": 3.91
+  },
+  {
+    "title": "Lord of the Flies (Paperback)",
+    "author": "William Golding",
+    "rating": 3.69
+  },
+  {
+    "title": "Frankenstein: The 1818 Text (Paperback)",
+    "author": "Mary Wollstonecraft Shelley",
+    "rating": 3.87
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+    "author": "J.K. Rowling",
+    "rating": 4.62
+  },
+  {
+    "title": "1984 (Paperback)",
+    "author": "George Orwell",
+    "rating": 4.19
+  },
+  {
+    "title": "The Handmaid\u2019s Tale (The Handmaid's Tale, #1)",
+    "author": "Margaret Atwood",
+    "rating": 4.14
+  },
+  {
+    "title": "The Kite Runner (Paperback)",
+    "author": "Khaled Hosseini",
+    "rating": 4.34
+  },
+  {
+    "title": "The Help (Hardcover)",
+    "author": "Kathryn Stockett",
+    "rating": 4.47
+  },
+  {
+    "title": "One Hundred Years of Solitude (Mass Market Paperback)",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "rating": 4.12
+  }
+]
